@@ -1,5 +1,6 @@
 package org.iplacex.discografia.artistas;
-
+import org.iplacex.proyectos.discografia.artistas.Artista;
+import org.iplacex.proyectos.discografia.artistas.IArtistaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
