@@ -1,4 +1,8 @@
 package org.iplacex.discografia.discos;
+package org.iplacex.proyectos.discografia.discos;
+
+import org.iplacex.proyectos.discografia.discos.Disco;
+import org.iplacex.proyectos.discografia.discos.IDiscoRepository;
 
 import org.iplacex.discografia.artistas.IArtistaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
