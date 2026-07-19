@@ -4,7 +4,7 @@ package org.iplacex.proyectos.discografia.discos;
 import org.iplacex.proyectos.discografia.discos.Disco;
 import org.iplacex.proyectos.discografia.discos.IDiscoRepository;
 
-import org.iplacex.discografia.artistas.IArtistaRepository;
+import org.iplacex.proyectos.discografia.artistas.IArtistaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
