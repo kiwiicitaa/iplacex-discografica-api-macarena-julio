@@ -1,4 +1,4 @@
-package org.iplacex.discografia.artistas;
+package org.iplacex.proyectos.discografia.artistas;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
