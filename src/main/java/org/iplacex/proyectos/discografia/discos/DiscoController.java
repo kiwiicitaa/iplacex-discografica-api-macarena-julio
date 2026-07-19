@@ -1,4 +1,4 @@
-package org.iplacex.discografia.discos;
+
 package org.iplacex.proyectos.discografia.discos;
 
 import org.iplacex.proyectos.discografia.discos.Disco;
