@@ -1,4 +1,4 @@
-package org.iplacex.discografia.discos;
+package org.iplacex.proyectos.discografia.discos;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
