@@ -1,4 +1,4 @@
-package org.iplacex.discografia.artistas;
+package org.iplacex.proyectos.discografia.artistas;
 import org.iplacex.proyectos.discografia.artistas.Artista;
 import org.iplacex.proyectos.discografia.artistas.IArtistaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
